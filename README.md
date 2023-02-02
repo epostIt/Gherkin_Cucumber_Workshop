@@ -2,7 +2,7 @@
 
 ### Setup
 `npm install`
-run tests using: `npm test`
+ run tests using: `npm test`
 
 ### Goals
 1. Write the cucumber tests for  `is_it_friday_yet`
