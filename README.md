@@ -1,7 +1,7 @@
 ## Gherkin/Cucumber Typescript workshop
 
 ### Setup
-`npm install`
+`npm install`  
  run tests using: `npm test`
 
 ### Goals
